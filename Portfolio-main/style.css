@@ -1,9 +1,10 @@
+/* This colors the nav bar gray and gives it spacing to make it thicker */
 nav {
    text-align: center;
    padding-top: 8px;
    padding-bottom: 2px;
 }
-
+/* This changes the title of the page which is "Franciscode" */
 .logo{
     font-size: 45px;
     letter-spacing: 5px;
@@ -16,7 +17,7 @@ header {
     background-color: gray;
     
 }
-
+/* This splits the title name in two seperate things so i can edit one side without effecting the other */
 .logoTwo {
     font-size: 60px;
     color: black;
@@ -35,7 +36,7 @@ h4{
     font-size: 30px;
     font-family: 'Figtree', sans-serif;
 }
-
+/* This changes the sizing of the image */
 .image{
     width: 300px;
     margin-left: auto;
@@ -53,12 +54,12 @@ body{
     margin-left: 28%;
     margin-right: 28%;
 }
-  
+/* This makes the line breaks thicker */  
 hr{
     border-top: 3px solid;
     margin-top: 60px;
 }
-
+/* This colors the bottom of the page to match with the top */
 footer{
     background-color: gray;
     padding-bottom: 25px;
