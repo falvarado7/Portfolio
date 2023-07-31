@@ -1,0 +1,71 @@
+/* This styles the text in the nav bar at top of page */
+nav {
+   text-align: center;
+   padding-top: 8px;
+   padding-bottom: 2px;
+}
+/* This styles thr name of the page which is broken into two parts */
+.logo{
+    font-size: 45px;
+    letter-spacing: 5px;
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    
+}
+/* This adds color to thr nav bar */
+header {
+    background-color: gray;
+    
+}
+/* This is the second part of the name of the page */
+.logoTwo {
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    font-family: 'VT323', monospace;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+/* This changes the font of my title */
+h3 {
+    font-size: 35px;
+    font-family: 'Figtree', sans-serif;
+}
+/* This changs the font of the about me and contact me headings */
+h4{
+    font-size: 30px;
+    font-family: 'Figtree', sans-serif;
+}
+/* This styles the image of me */
+.image{
+    height: 350px;
+    width: 300px;
+    margin-left: auto;
+    margin-top: 35px;
+    border-radius: 50px;
+}
+/* This styles the text in the body */
+body{
+    background-color: lightgray;
+    text-align: center;
+    font-family: 'Figtree', sans-serif;
+}
+
+.aboutMe {
+    margin-left: 28%;
+    margin-right: 28%;
+}
+/* This makes the line thicker */
+hr{
+    border-top: 3px solid;
+    margin-top: 60px;
+}
+/* This styles the footer so that it can match with the header */
+footer{
+    background-color: gray;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+  
+
+ 
